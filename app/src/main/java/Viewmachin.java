@@ -1,4 +1,5 @@
 import javafx.application.Application;
+import javafx.beans.binding.Bindings;
 import javafx.beans.property.BooleanProperty;
 import javafx.beans.property.SimpleBooleanProperty;
 import javafx.scene.Scene;
